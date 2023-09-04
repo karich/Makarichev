@@ -1,0 +1,28 @@
+.last_content{
+    width: 95%;
+    background-color:  #51B4ED;
+    
+}
+.last_content_title{
+    color: whitesmoke;
+    text-align: center;
+    border-bottom: solid darkblue;
+}
+.last_news{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 7px;
+    color: whitesmoke;
+    border-bottom: solid 1px darkblue;
+    box-sizing: border-box;
+}
+.text_last{
+    width: 80%;
+    margin-right: 7px;
+    text-align: left;
+}
+.last_news img{
+    width: 60px;
+    height: 60px;
+    margin: 7px;
+}

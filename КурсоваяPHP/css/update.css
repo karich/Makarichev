@@ -1,0 +1,74 @@
+.update_news,.update_news1 {
+    background-color: green;
+    color: aliceblue;
+    border-radius: 7px;
+    border: none;
+    margin: 5px;
+    height: 20px;
+    width: 45%;
+}
+
+.update, .update_teach{
+    display: none;
+    width: 70%;;
+    text-align: center;
+    background-color: blue;
+    border-radius: 10px;
+    margin:0 auto ;
+    margin-top: 7px;
+    color: white;
+    position: fixed;
+    top: 10px;
+    left: 300px;
+    z-index: 10;
+}
+#update_form {
+    width: 55%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+#update_form .name2 {
+    width: 45%;
+    height: 30px;
+    margin: 7px;
+    border-radius: 5px;
+}
+#update_form .info_low2 {
+    width: 45%;
+    height: 30px;
+    margin: 7px;
+    border-radius: 5px;
+}
+#update_form textarea{
+    width: 93%;
+    height: 30px;
+    margin: 7px;
+    border-radius: 5px;
+}
+#update_form .link2{
+    width: 93%;
+    height: 30px;
+    margin: 7px;
+    border-radius: 5px;
+}
+.update_buttons{
+    width: 95%;
+    margin: 0 auto;
+}
+.update_buttons button{
+    width: 40%;
+    margin: 7px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+.teacher_admin{
+    display: none;
+}
+.work_red{
+    margin: 0 50px 10px 0 ;
+}

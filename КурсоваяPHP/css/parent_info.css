@@ -1,0 +1,16 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+    width: 95%;
+    height: 400px;
+    margin: 0 auto;
+    padding: 7px;
+    box-sizing: border-box;
+}
+.info_teacher{
+    text-align: center;
+    color: darkblue;
+    background-color: #DCE6F2;
+    color: #0f3f89;
+}

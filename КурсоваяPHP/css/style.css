@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#topNubex{
+    text-align: center;
+    padding-top: 3px;
+    position: fixed;
+    bottom: 35px;
+    right: 45px;
+    width: 30px;
+    height: 30px;
+    border: solid black 1px;
+    border-radius: 50%;
+    background-color: whitesmoke;
+}
+
+
+.delete_news, .delete_news1{
+    background-color: red;
+    color: aliceblue;
+    border-radius: 7px;
+    border: none;
+    margin: 5px;
+    height: 20px;
+    width: 45%;
+}
+form button{
+    background-color: green;
+    color: aliceblue;
+    border-radius: 7px;
+    border: none;
+    height: 20px;
+    width: 45%;
+}
+
+/*@media screen and (max-width:1300px){
+    .gos{
+    font-size: 265%;
+}
+
+.tsp{
+    font-size: 265%;
+}
+    .update_news{
+        height: 20px;
+        font-size: 75%;
+    }
+    .delete_news{
+        height: 20px;
+        font-size: 75%;
+    }
+}
+
+@media screen and (max-width:950px){
+    .gos{
+        font-size: 200%;
+    }
+    
+    .tsp{
+        font-size: 200%;
+    }
+    .slider{
+        height: 350px;
+    }
+    .slider .item img {
+        height: 350px;
+    }
+    .new img{
+        height: 120px;
+    }
+    .update_news{
+        height: 17px;
+        font-size: 60%;
+    }
+    .delete_news{
+        height: 17px;
+        font-size: 60%;
+    }
+    #insert_form #name{
+        height: 30px;
+    }
+    #insert_form select{
+        height: 25px;
+    }
+    #insert_form textarea{
+        height: 25px;
+    }
+    #insert_form #info_low{
+        height: 25px;
+    }
+    .full img{
+        height: 300px;
+    }
+    .insert, .update  {
+        font-size: 95%;
+        padding: 5px;
+    }
+}
+@media screen and (max-width:785px){
+    .gos{
+        font-size: 100%;
+    }
+    
+    .tsp{
+        font-size: 100%;
+    }
+    .nav_bar a{
+        font-size: 100%;
+    }
+    .line{
+        margin-top: 10px;
+        border: solid black;
+        border-radius: 7px;    
+        width: 350px;
+        height: 25px;
+    }
+    .update_news{
+        height: 17px;
+        font-size: 45%;
+    }
+    .delete_news{
+        height: 17px;
+        font-size: 45%;
+    }
+    .foot1 p{
+        margin: 7px;
+        font-size: 100%;
+    }
+    .full{
+        font-size: 90%;
+    }
+    .full img{
+        height: 250px;
+    }
+    .insert , .update {
+        font-size: 80%;
+        padding: 5px;
+    }
+}
+@media screen and (max-width:660px){
+    .gos{
+        font-size: 80%;
+    }
+    
+    .tsp{
+        font-size: 90%;
+    }
+    .last_content{
+        display: none;
+    }
+    .slider{
+        height: 200px;
+    }
+    .slider .item img {
+        height: 200px;
+    }
+    .nav_bar a{
+        font-size: 90%;
+    }
+    .line{    
+        width: 250px;
+        height: 20px;
+    }
+    .new img{
+        height: 100px;
+    }
+    .new{
+        font-size: 85%;
+    }
+    .update_news{
+        height: 17px;
+        font-size: 40%;
+    }
+    .delete_news{
+        height: 17px;
+        font-size: 40%;
+    }
+    .foot1 p{
+        margin: 7px;
+        font-size: 80%;
+    }
+    .full{
+        font-size: 75%;
+    }
+    .full img{
+        height: 200px;
+    }
+    .insert, .update {
+        font-size: 70%;
+        padding: 5px;
+    }
+}
+
+@media screen and (max-width:450px){
+    .new{
+        font-size: 70%;
+    }
+    .update_news{
+        height: 17px;
+        font-size: 25%;
+    }
+    .delete_news{
+        height: 17px;
+        font-size: 30%;
+    }
+    .foot1 p{
+        margin: 7px;
+        font-size: 70%;
+    }
+    .full{
+        font-size: 60%;
+    }
+    .full img{
+        height: 150px;
+    }
+    .insert, .update {
+        font-size: 60%;
+        padding: 5px;
+    }
+}*/

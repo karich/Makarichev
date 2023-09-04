@@ -1,0 +1,41 @@
+header{
+    background-color: #DCE6F2;
+    color: #0f3f89;
+}
+
+
+/*Шапка*/
+.head{
+    text-align: center;
+    padding: 10px;
+}
+.head img{
+    width: 10%;
+    float: left;
+    position: relative;
+    top: 10px;
+    left: 7px;
+}
+.gos{
+    width: 85%;
+    font-size: 120%;
+}
+
+.tsp{
+    width: 85%;
+    font-size: 250%;
+}
+.soc{
+    text-align: center;
+    width: 15%;
+    position: absolute;
+    right:0px;
+    left: 85%;
+    top: 5px;
+}
+.soc img{
+    width: 20%;
+    margin: 5px ;
+    margin-right: 0px;
+    padding: 0px;
+}

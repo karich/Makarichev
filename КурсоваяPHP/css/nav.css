@@ -1,0 +1,75 @@
+/*Меню*/
+nav{
+    background-color: #cadbef;
+    margin-bottom: 0px;
+}
+#btn_search{
+    width: 30px;
+    height: 35px;
+    color: #fff;
+    background-color: #cadbef;
+    border-radius: 7px;
+}
+#btn_clear{
+    width: 30px;
+    height: 35px;
+    color: #fff;
+    border-radius: 7px;
+    background-color: #F24141;
+}
+.nav{
+    padding:  9px;
+    background-color:  #cadbef  ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 90%;
+    box-sizing: border-box;
+}
+.nav a{
+    font-size: 150%;
+    margin: 7px;
+    text-decoration: none;
+    color: #0f3f89;
+}
+.serch_hole{
+    margin: 7px;
+    padding: 0;
+}
+.search input{
+    border: 0;
+}
+
+.line{   
+    width: 9;
+    height: 35px;
+}
+
+.nav_bar{
+    background-color:  #cadbef  ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: sticky;
+    z-index: 5;
+    width: 100%;
+    top: 5px;
+}
+.nav_bar a{
+    font-size: 150%;
+    margin: 7px;
+    text-decoration: none;
+    color: #0f3f89;
+}
+.about_us{
+    background-color: #cadbef ;
+    width: 15%;
+    display: none;
+    position: absolute;
+    z-index: 7;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-left: 275px;
+    padding-top: 0;
+    text-decoration: none;
+}

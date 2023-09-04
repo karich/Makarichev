@@ -1,0 +1,53 @@
+.insert{
+    width: 55%;
+    text-align: center;
+    background-color: blue;
+    border-radius: 10px;
+    margin:0 auto ;
+    text-align: center;
+    margin-top: 7px;
+    color: white;
+}
+#insert_form {
+    width: 55%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 0 auto;
+    padding: 7px;
+}
+#insert_form input{
+    width: 45%;
+    height: 30px;
+    margin: 7px;
+    border-radius: 5px;
+}
+#insert_form select{
+    width: 45%;
+    height: 30px;
+    margin: 7px;
+    border-radius: 5px;
+}
+#insert_form textarea{
+    width: 93%;
+    height: 30px;
+    margin: 7px;
+    border-radius: 5px;
+}
+#insert_form #info_low{
+    width: 93%;
+    height: 30px;
+    margin: 7px;
+    border-radius: 5px;
+}
+ #submit{
+    background-color: green;
+    color: aliceblue;
+    border-radius: 7px;
+    border: none;
+    margin: 5px;
+    height: 20px;
+    width: 45%;
+}

@@ -1,0 +1,23 @@
+.auth{
+    background-color: darkblue;
+    width: 70%;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+.auth input{
+    width: 50%;
+    height: 30px;
+    border-radius: 7px;
+}
+.auth button{
+    width: 30%;
+    height: 30px;
+    border-radius: 7px;
+    background-color: green;
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}

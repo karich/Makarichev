@@ -1,0 +1,31 @@
+.full{
+    display: none;
+    position: fixed;
+    color: #143473;
+    margin: 100px;
+    top: 50px;
+    bottom: 50px;
+    right: 50px;
+    left: 50px;
+    background-color: #bed5f3;
+}
+.full img{
+    width: 30%;
+    height: 80%;
+    margin:7px;
+    float: left;
+}
+.full_info{
+    width: 90%;
+}
+.open_full{
+    width: 100%;
+    text-align: center;
+    color: blue;
+}
+.close_full, .close_red2, .close_red{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    color: red;
+}
